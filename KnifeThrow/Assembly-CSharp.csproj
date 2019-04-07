@@ -67,16 +67,16 @@
     <Compile Include="Assets\Script\Knife.cs" />
     <None Include="Assets\Script\DefaultColorFlash.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Incun/Documents/GitHub/Unity-Other/유니티 공부/KnifeThrow/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Incun/Documents/GitHub/KnifeThrow/KnifeThrow/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Incun/Documents/GitHub/Unity-Other/유니티 공부/KnifeThrow/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Incun/Documents/GitHub/KnifeThrow/KnifeThrow/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Incun/Documents/GitHub/Unity-Other/유니티 공부/KnifeThrow/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Incun/Documents/GitHub/KnifeThrow/KnifeThrow/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Incun/Documents/GitHub/Unity-Other/유니티 공부/KnifeThrow/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Incun/Documents/GitHub/KnifeThrow/KnifeThrow/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity2/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
